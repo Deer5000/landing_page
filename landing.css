@@ -1,0 +1,24 @@
+.jumbotron {
+    background-image: url("/Users/khidrbrinkley/Desktop/dev/courses/SPD1.5/graze/images/grass2.JPG");
+    background-size: cover;
+  }
+
+  .jumbotron h1{
+    color: #98ff98;
+}
+
+.jumbotron p{
+    color: #98ff98;
+}
+
+
+html body {
+  background-color: #98ff98;
+
+}
+
+
+.nav-link {
+  color: white;
+  text-align: center;
+}
